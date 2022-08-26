@@ -6,21 +6,25 @@ title: Sian Lee
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Ph.D. Candidate in Informatics
+Ph.d. Minor in Statistics
+M.A. and B.A. in Economics
+
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Pennsylvania State University
-    url: https://www.psu.edu/
+  - name: College of Information Sciences and Technology,
+  The Pennsylvania State University, University Park
+    url: https://ist.psu.edu/research/areas
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focus on data-driven approach to understand, predict, and change human behavior.
 
 # Interests to show in About widget
 interests:
-  - Human Factor
-  - Computational Linguistics
-  - Information Retrieval
+  - Misinformation and Fake News
+  - Human Behavior
+  - Data Science
 
 # Education to show in About widget
 education:
