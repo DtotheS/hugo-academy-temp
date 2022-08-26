@@ -6,7 +6,7 @@ title: Sian Lee
 superuser: true
 
 # Role/position/tagline
-role: |
+role: >
   Ph.D. Candidate in Informatics 
   Ph.D. Minor in Statistics 
   M.A. and B.A. in Economics
