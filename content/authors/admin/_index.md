@@ -6,15 +6,12 @@ title: Sian Lee
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Informatics
-Ph.d. Minor in Statistics
-M.A. and B.A. in Economics
+role: Ph.D. Candidate in Informatics / Ph.d. Minor in Statistics / M.A. and B.A. in Economics
 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: College of Information Sciences and Technology,
-  The Pennsylvania State University, University Park
+  - name: College of Information Sciences and Technology, The Pennsylvania State University, University Park
     url: https://ist.psu.edu/research/areas
 
 # Short bio (displayed in user profile at end of posts)
